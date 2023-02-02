@@ -2,4 +2,6 @@
 ## PROJECT NAME: Marriage DAO
 ### SUBMITTED BY: DAO House
 
-This repository contains the iOS/Android React Native code for Marriage DAO. It is a mobile app that allows users to create a marriage contract and store it on the blockchain. The app also allows users to view their marriage contract and to view the marriage contracts of other users. The app also allows users to create a marriage contract with another user and to view their marriage contract with another user.
+This repository contains the iOS/Android React Native code for Marriage DAO. It is a mobile app that allows users to create a marriage contract and store it on the blockchain. This app uses @WalletConnect to connect to the Marriage DAO smart contract on the Ethereum blockchain. The smart contract is deployed on the Polygon MainNet.
+
+<img className="gif" src='https://github.com/Zernach/zernach.github.io/blob/master/images/marriage-dao-demo-gif-expo-react-native-walletconnect.gif?raw=true'/>

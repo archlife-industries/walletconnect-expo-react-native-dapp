@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Marriage DAO",
+    "slug": "marriagedao",
+    "version": "1.0.12",
+    "orientation": "portrait",
+    "scheme": "marriagedao",
+    "userInterfaceStyle": "dark",
+    "icon": "./src/assets/images/icon.png",
+    "backgroundColor": "#1c1c1c",
+    "jsEngine": "jsc",
+    "splash": {
+      "image": "./src/assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1c1c1c"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/25b7fad7-201e-4d8b-8807-1d0b87d82c13"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zernach.marriagedao"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/adaptive-icon.png",
+        "backgroundColor": "#1c1c1c"
+      },
+      "package": "com.zernach.marriagedao"
+    },
+    "web": {
+      "favicon": "./src/assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "25b7fad7-201e-4d8b-8807-1d0b87d82c13"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
+  }
+}
